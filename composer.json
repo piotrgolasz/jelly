@@ -1,0 +1,25 @@
+{
+  "name": "piotrgolasz/jelly",
+  "description": "Jelly ORM for Kohana/Koseven",
+  "license": "BSD",
+  "keywords": [
+    "koseven",
+    "jelly",
+    "orm"
+  ],
+  "authors": [
+    {
+      "name": "Piotr Gołasz",
+      "role": "developer"
+    },
+    {
+      "name": "creatoro",
+      "role": "developer"
+    },
+    {
+      "name": "Jonathan Geiger",
+      "email": "me@gigr.ca",
+      "role": "developer"
+    }
+  ]
+}
